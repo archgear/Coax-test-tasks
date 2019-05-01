@@ -12,4 +12,3 @@ string = input("Please enter a string to revert: ")
 
 revert_string(string)
 
-test test
